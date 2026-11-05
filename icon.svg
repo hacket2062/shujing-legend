@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#378ADD"/>
+  <circle cx="256" cy="270" r="190" fill="#85B7EB"/>
+  <g transform="translate(106 96) scale(3)">
+    <path d="M50 0 C60 14 70 16 66 30 C76 24 78 16 78 16 C90 36 82 46 74 52 L26 52 C18 44 16 34 24 20 C24 28 30 32 34 32 C30 18 40 8 50 0Z" fill="#EF9F27"/>
+    <ellipse cx="32" cy="91" rx="8" ry="5" fill="#993C1D"/>
+    <ellipse cx="68" cy="91" rx="8" ry="5" fill="#993C1D"/>
+    <ellipse cx="50" cy="63" rx="32" ry="28" fill="#F0997B"/>
+    <ellipse cx="50" cy="76" rx="17" ry="12" fill="#FAECE7"/>
+    <text x="50" y="82" text-anchor="middle" font-size="16" font-weight="700" font-family="Arial, sans-serif" fill="#993C1D">7</text>
+    <circle cx="39" cy="58" r="6" fill="#2C2C2A"/>
+    <circle cx="61" cy="58" r="6" fill="#2C2C2A"/>
+    <circle cx="41" cy="56" r="2" fill="#fff"/>
+    <circle cx="63" cy="56" r="2" fill="#fff"/>
+    <ellipse cx="29" cy="67" rx="5" ry="3" fill="#ED93B1"/>
+    <ellipse cx="71" cy="67" rx="5" ry="3" fill="#ED93B1"/>
+    <path d="M46 66 Q50 70 54 66" stroke="#2C2C2A" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(330 300) scale(2.2)">
+    <polygon points="22,2 40,12 40,32 22,42 4,32 4,12" fill="#AFA9EC" stroke="#534AB7" stroke-width="3"/>
+    <text x="22" y="28" text-anchor="middle" font-size="16" font-weight="700" font-family="Arial, sans-serif" fill="#26215C">÷</text>
+  </g>
+</svg>
